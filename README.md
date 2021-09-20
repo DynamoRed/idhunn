@@ -4,9 +4,9 @@
 
 [![Website](https://img.shields.io/website?label=academy.dynamored.com&style=for-the-badge&url=https%3A%2F%2Facademy.dynamored.com)](https://academy.dynamored.com/)
 
-## What is Odin ?
+## What is Idhunn ?
 
-- Odin is my API, the brain of all my projects
+- Idhunn is the site on which I offer free and regular computer tutorials of all kinds
 
 ### Languages and Tools:
 
